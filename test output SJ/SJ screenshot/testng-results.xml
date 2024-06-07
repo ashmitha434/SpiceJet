@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-10T13:27:41 IST" name="Suite" finished-at="2023-09-10T13:55:26 IST" duration-ms="1664524">
+    <groups>
+    </groups>
+    <test started-at="2023-09-10T13:27:41 IST" name="Test" finished-at="2023-09-10T13:55:26 IST" duration-ms="1664524">
+      <class name="com.spicejet.utils.Reports">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.spicejet.utils.Reports@7f485fda]" started-at="2023-09-10T13:27:41 IST" name="startReport" finished-at="2023-09-10T13:27:41 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.spicejet.utils.Reports@7f485fda]" started-at="2023-09-10T13:55:26 IST" name="endReport" finished-at="2023-09-10T13:55:26 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.spicejet.utils.Reports -->
+      <class name="com.spicejet.tests.LoginJet">
+        <test-method signature="SpiceJetLoginTestCases()[pri:1, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:27:41 IST" name="SpiceJetLoginTestCases" finished-at="2023-09-10T13:29:19 IST" duration-ms="97836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpiceJetLoginTestCases -->
+        <test-method is-config="true" signature="closeAllBrowsers()[pri:0, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:29:19 IST" name="closeAllBrowsers" finished-at="2023-09-10T13:29:19 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowsers -->
+        <test-method signature="SpiceJetInvalidLoginTestCase()[pri:2, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:29:19 IST" name="SpiceJetInvalidLoginTestCase" finished-at="2023-09-10T13:30:27 IST" duration-ms="67779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpiceJetInvalidLoginTestCase -->
+        <test-method is-config="true" signature="closeAllBrowsers()[pri:0, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:30:27 IST" name="closeAllBrowsers" finished-at="2023-09-10T13:30:28 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowsers -->
+        <test-method signature="Roundtrip()[pri:3, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:30:28 IST" name="Roundtrip" finished-at="2023-09-10T13:43:00 IST" duration-ms="752880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Roundtrip -->
+        <test-method is-config="true" signature="closeAllBrowsers()[pri:0, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:43:00 IST" name="closeAllBrowsers" finished-at="2023-09-10T13:43:01 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowsers -->
+        <test-method signature="OnewayFlight()[pri:4, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:43:01 IST" name="OnewayFlight" finished-at="2023-09-10T13:53:30 IST" duration-ms="629845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnewayFlight -->
+        <test-method is-config="true" signature="closeAllBrowsers()[pri:0, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:53:30 IST" name="closeAllBrowsers" finished-at="2023-09-10T13:53:31 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowsers -->
+        <test-method signature="flightStatus()[pri:5, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:53:31 IST" name="flightStatus" finished-at="2023-09-10T13:55:26 IST" duration-ms="114876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightStatus -->
+        <test-method is-config="true" signature="closeAllBrowsers()[pri:0, instance:com.spicejet.tests.LoginJet@8458f04]" started-at="2023-09-10T13:55:26 IST" name="closeAllBrowsers" finished-at="2023-09-10T13:55:26 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowsers -->
+      </class> <!-- com.spicejet.tests.LoginJet -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
